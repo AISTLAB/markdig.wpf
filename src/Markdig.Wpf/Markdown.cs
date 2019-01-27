@@ -5,6 +5,7 @@
 using System;
 using System.IO;
 using System.Windows.Documents;
+using Markdig;
 using Markdig.Annotations;
 using Markdig.Renderers;
 using Markdig.Syntax;
